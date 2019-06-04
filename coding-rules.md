@@ -134,6 +134,7 @@ li:not(:first-child) {
 ## HTML
 - L'encodage des fichiers et des bases de données doit se faire en UTF-8 (sans BOM).
 - Les indentations se font à l'aide de quatre espaces à l'aide de tabulations.
+- Le code HTML produit doit être valide selon les normes W3C (https://validator.nu/)
 - Choisir des noms en anglais prioritairement (fichiers, images, etc.).
 - Les noms d'éléments et des attributs sont rédigés en minuscules.
 - Les valeurs identiques aux attributs ne sont pas renseignées sauf nécessité (ex. en HTML5 pas de checked="checked").

@@ -1,4 +1,4 @@
-# fontEnd Coding Rules
+# frontEnd Coding Rules
 - [CSS](#css)
 - [HTML](#html)
 - [Accessibilité](#accessibilité)

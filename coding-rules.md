@@ -164,4 +164,5 @@ Une attention toute particulière sera apportée à l'accessibilité des documen
 - Signaler lorsqu’un lien s’ouvre dans une nouvelle fenêtre :
 `<a href="URL" target="_blank" aria-label="Lire l’article (nouvelle fenêtre)">Lire l’article</a>`.
 - Chaque image doit avoir un attribut `alt`. Les images décoratives (qui n'apportent rien au contenu) doivent avoir un attribut alt vide `<img ... alt="">`.
+- Ne pas utiliser la propriété CSS `background-image` pour afficher une image autre q'une image de fond décorative [The CSS background-image property as an anti-pattern](https://nystudio107.com/blog/the-css-background-image-property-as-an-anti-pattern).
 - Une image porteuse d'information ou cliquable doit avoir une alternative textuelle, l'attribut `alt` doit reprendre l'information figurant sur l'image.
